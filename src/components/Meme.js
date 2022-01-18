@@ -62,6 +62,7 @@ function Meme() {
         <h2 className="meme-text top">{meme.topText}</h2>
         <h2 className="meme-text bottom">{meme.bottomText}</h2>
       </div>
+      <p>You can take snapshot of your meme!</p>
     </main>
   );
 }
